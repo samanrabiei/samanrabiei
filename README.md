@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samanrabiei
 - 👀 I’m interested in web Development and Desgin
-- 🌱 I’m currently learning php, codegniter,Bootstrap
-- 💞️ I’m looking to collaborate on sell Virtual product in markets
+- 💞️ I’m web designer and web programmer
 - 📫 How to reach me telegram @samanrabiei
 
 <!---
