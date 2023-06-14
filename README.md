@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samanrabiei
-- 👀 I’m interested in web Development and Desgin
+- 👀 I’m interested in web Development 
 - 💞️ I’m web designer and web programmer
 - 📫 How to reach me telegram @samanrabiei
 
